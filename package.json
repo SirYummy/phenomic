@@ -31,7 +31,7 @@
     "lint-staged": "^3.4.0",
     "npm-run-all": "^3.0.0",
     "prettier": "^1.6.0",
-    "trash-cli": "^1.4.0"
+    "trash-cli": "^3.1.0"
   },
   "scripts": {
     "#<git hooks>": "handled by husky",
@@ -131,6 +131,6 @@
   },
   "workspaces": ["docs", "examples/*", "packages/*"],
   "dependencies": {
-    "trash-cli": "^1.4.0"
+    "trash-cli": "^3.1.0"
   }
 }
